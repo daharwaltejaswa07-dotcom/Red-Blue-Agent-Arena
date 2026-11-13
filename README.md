@@ -1,4 +1,4 @@
-# GREY HATS — CYBER-02 Red Team vs Blue Team
+# Red Team vs Blue Team
 
 This package contains the supplied dashboard frontend connected to a local FastAPI sandbox backend.
 
